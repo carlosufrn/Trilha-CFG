@@ -1,0 +1,1228 @@
+{
+ "modules": [
+  {
+   "id": 1,
+   "name": "Métodos Quantitativos",
+   "min": 8,
+   "max": 12
+  },
+  {
+   "id": 2,
+   "name": "Economia",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 3,
+   "name": "Análise de Relatórios Financeiros",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 4,
+   "name": "Finanças Corporativas",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 5,
+   "name": "Mercados e Instrumentos Financeiros",
+   "min": 13,
+   "max": 17
+  },
+  {
+   "id": 6,
+   "name": "Teoria Moderna de Carteiras e Precificação de Ativos",
+   "min": 8,
+   "max": 12
+  },
+  {
+   "id": 7,
+   "name": "Finanças Comportamentais",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 8,
+   "name": "Política de Investimentos",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 9,
+   "name": "Alocação de Ativos",
+   "min": 13,
+   "max": 17
+  },
+  {
+   "id": 10,
+   "name": "Novas Tecnologias em Finanças",
+   "min": 3,
+   "max": 7
+  },
+  {
+   "id": 11,
+   "name": "Ética e Autorregulação",
+   "min": 8,
+   "max": 12
+  },
+  {
+   "id": 12,
+   "name": "Legislação e Regulação",
+   "min": 8,
+   "max": 12
+  }
+ ],
+ "topics": [
+  {
+   "id": "1.1",
+   "name": "Valor do Dinheiro no Tempo",
+   "mod": 1,
+   "n": 226
+  },
+  {
+   "id": "1.2",
+   "name": "Conceitos Básicos de Estatística",
+   "mod": 1,
+   "n": 71
+  },
+  {
+   "id": "1.3",
+   "name": "Conceitos Básicos de Probabilidade",
+   "mod": 1,
+   "n": 14
+  },
+  {
+   "id": "1.4",
+   "name": "Amostragem, Estimação e Teste de Hipóteses",
+   "mod": 1,
+   "n": 19
+  },
+  {
+   "id": "1.5",
+   "name": "Regressão Linear e Múltipla",
+   "mod": 1,
+   "n": 15
+  },
+  {
+   "id": "2.1",
+   "name": "Microeconomia",
+   "mod": 2,
+   "n": 39
+  },
+  {
+   "id": "2.2",
+   "name": "Macroeconomia",
+   "mod": 2,
+   "n": 211
+  },
+  {
+   "id": "2.3",
+   "name": "Sistema Financeiro Nacional",
+   "mod": 2,
+   "n": 219
+  },
+  {
+   "id": "3.1",
+   "name": "Principais Demonstrações Contábeis",
+   "mod": 3,
+   "n": 23
+  },
+  {
+   "id": "3.2",
+   "name": "Análise das Demonstrações Contábeis",
+   "mod": 3,
+   "n": 105
+  },
+  {
+   "id": "4.1",
+   "name": "Orçamento de Capital",
+   "mod": 4,
+   "n": 127
+  },
+  {
+   "id": "4.2",
+   "name": "Estrutura de Capital",
+   "mod": 4,
+   "n": 28
+  },
+  {
+   "id": "5.1",
+   "name": "Renda Variável",
+   "mod": 5,
+   "n": 410
+  },
+  {
+   "id": "5.2",
+   "name": "Renda Fixa",
+   "mod": 5,
+   "n": 221
+  },
+  {
+   "id": "5.3",
+   "name": "Derivativos",
+   "mod": 5,
+   "n": 262
+  },
+  {
+   "id": "5.4",
+   "name": "Investimentos Alternativos",
+   "mod": 5,
+   "n": 44
+  },
+  {
+   "id": "6.1",
+   "name": "Teoria Moderna de Carteiras",
+   "mod": 6,
+   "n": 56
+  },
+  {
+   "id": "6.2",
+   "name": "Modelos de Precificação de Ações",
+   "mod": 6,
+   "n": 59
+  },
+  {
+   "id": "7.1",
+   "name": "Finanças Comportamentais",
+   "mod": 7,
+   "n": 101
+  },
+  {
+   "id": "8.1",
+   "name": "Política de Investimentos",
+   "mod": 8,
+   "n": 78
+  },
+  {
+   "id": "9.1",
+   "name": "Alocação de Ativos",
+   "mod": 9,
+   "n": 37
+  },
+  {
+   "id": "10.1",
+   "name": "Novas Tecnologias em Finanças",
+   "mod": 10,
+   "n": 31
+  },
+  {
+   "id": "11.1",
+   "name": "ASG",
+   "mod": 11,
+   "n": 87
+  },
+  {
+   "id": "11.2",
+   "name": "Códigos Anbima",
+   "mod": 11,
+   "n": 65
+  },
+  {
+   "id": "12.1",
+   "name": "Normas Legais e Infralegais",
+   "mod": 12,
+   "n": 158
+  },
+  {
+   "id": "12.2",
+   "name": "Compliance",
+   "mod": 12,
+   "n": 166
+  },
+  {
+   "id": "12.3",
+   "name": "Tributação",
+   "mod": 12,
+   "n": 135
+  }
+ ],
+ "syllabus": {
+  "1": [
+   {
+    "h": "1.1 Valor do Dinheiro no Tempo",
+    "items": [
+     "Interpretar taxas de juros como taxas de retorno ou de desconto e entender sua relação com o conceito de custo de oportunidade.",
+     "Calcular taxas anuais efetivas de juros, dada uma frequência de capitalização semestral, trimestral, mensal, diária ou contínua.",
+     "Calcular e interpretar o valor presente e o valor futuro de um único fluxo de caixa, de uma anuidade e de uma perpetuidade (apenas valor presente), bem como de uma série de fluxos de caixa irregulares."
+    ]
+   },
+   {
+    "h": "1.2 Conceitos Básicos de Estatística",
+    "items": [
+     "Calcular e interpretar medidas de tendência central de uma amostra ou população: média, mediana e moda.",
+     "Calcular e interpretar quantis (quartis, quintis, decis e percentis).",
+     "Calcular e interpretar medidas de dispersão de uma amostra ou população: variância e desvio- padrão.",
+     "Calcular e interpretar a covariância e o coeficiente de correlação entre duas variáveis.",
+     "Entender e interpretar as propriedades de um conjunto de dados apresentados sob forma gráfica."
+    ]
+   },
+   {
+    "h": "1.3 Conceitos Básicos de Probabilidade",
+    "items": [
+     "Definir e calcular o valor esperado de uma variável aleatória e do retorno de uma carteira de investimentos.",
+     "Calcular e interpretar a variância e o desvio-padrão de uma variável aleatória e do retorno de uma carteira de investimentos.",
+     "Entender, definir e distinguir entre variáveis aleatórias discretas e contínuas.",
+     "Definir uma distribuição de probabilidade.",
+     "Entender e distinguir as distribuições de probabilidade uniforme, binomial, normal e lognormal.",
+     "Definir uma distribuição normal padrão, bem como calcular e interpretar probabilidades utilizando tal distribuição.",
+     "Entender e explicar a utilização da distribuição lognormal na modelagem de preços de ativos."
+    ]
+   },
+   {
+    "h": "1.4 Amostragem, Estimação e Testes de Hipótese",
+    "items": [
+     "Distinguir entre população e amostra e definir amostragem aleatória.",
+     "Calcular a variância e o erro-padrão da média amostral.",
+     "Definir e distinguir entre estimativa por ponto e por intervalo de confiança.",
+     "Calcular e interpretar o intervalo de confiança da média populacional, dada uma distribuição normal.",
+     "Entender e explicar a formulação de um teste de hipóteses.",
+     "Entender e formular a hipótese nula e a hipótese alternativa de um teste de hipóteses.",
+     "Definir e diferenciar os erros tipo I e tipo II, bem como entender e interpretar o nível de significância de um teste de hipóteses.",
+     "Distinguir entre testes de hipóteses unicaudais ou bicaudais."
+    ]
+   },
+   {
+    "h": "1.5 Regressão Linear e Múltipla",
+    "items": [
+     "Entender e interpretar um modelo de regressão simples e múltipla.",
+     "Definir e entender variável dependente, variável independente, intercepto, termo aleatório e coeficiente de determinação (R2).",
+     "Dado um modelo de regressão e o valor da variável independente, calcular o valor estimado de uma variável dependente, assim como calcular e interpretar um intervalo de confiança para este valor.",
+     "Analisar um teste t para um coeficiente de regressão e calcular seu nível de significância.",
+     "Interpretar o coeficiente de regressão e calcular intervalos de confiança para essa estatística.",
+     "Formular hipóteses nulas e alternativas sobre o valor de um coeficiente de regressão de uma população, determinar qual o teste estatístico apropriado e se a hipótese nula será rejeitada a determinado intervalo de confiança.",
+     "Interpretar os resultados de uma regressão.",
+     "Explicar o uso de análise de variância (ANOVA) na análise de regressão e interpretar seus resultados.",
+     "Analisar as limitações de análise de regressão."
+    ]
+   }
+  ],
+  "2": [
+   {
+    "h": "2.1 Microeconomia",
+    "items": []
+   },
+   {
+    "h": "2.1.1 Oferta e Demanda",
+    "items": [
+     "Entender e explicar os princípios de oferta e demanda.",
+     "Descrever causas e efeitos do movimento ao longo das curvas de oferta e demanda.",
+     "Descrever causas e efeitos do deslocamento das curvas de oferta e demanda.",
+     "Calcular e interpretar funções de demanda e de oferta, bem como suas formas inversas.",
+     "Calcular o preço e a quantidade de equilíbrio em um mercado, dadas as funções de demanda e de oferta.",
+     "Calcular e determinar a existência de excesso de demanda ou excesso de oferta em um mercado, dadas as curvas de oferta e demanda e o preço do bem.",
+     "Explicar e calcular o excedente do consumidor, o excedente do produtor e o excedente total.",
+     "Definir e calcular a elasticidade-preço da oferta e da demanda, bem como analisar os diferentes fatores que a influenciam.",
+     "Explicar e calcular a elasticidade cruzada da demanda.",
+     "Explicar e calcular a elasticidade-renda da demanda",
+     "Entender o impacto da regulação governamental (limites de preço, quotas, impostos e subsídios) e interpretar seus efeitos sobre o equilíbrio de mercado."
+    ]
+   },
+   {
+    "h": "2.1.2 Demanda do Consumidor",
+    "items": [
+     "Calcular e interpretar a restrição orçamentária, bem como descrever seu uso no processo de escolha do consumidor.",
+     "Entender e interpretar uma função de utilidade.",
+     "Descrever o uso de curvas de indiferença na escolha do consumidor.",
+     "Definir e comparar bens normais e bens inferiores",
+     "Definir e comparar bens substitutos e bens complementares",
+     "Entender e interpretar o efeito renda e o efeito substituição"
+    ]
+   },
+   {
+    "h": "2.1.3 Produção, Custos e Lucro da Firma",
+    "items": [
+     "Identificar e descrever os fatores de produção da firma.",
+     "Calcular e interpretar funções de produção.",
+     "Calcular, interpretar e comparar o produto total, o produto médio e o produto marginal da firma.",
+     "Entender e interpretar a existência de retornos marginais decrescentes.",
+     "Calcular e interpretar o custo fixo e o custo variável de produção.",
+     " Calcular, interpretar e comparar o custo total, o custo médio e o custo marginal de produção.",
+     "Descrever e determinar os pontos de break-even e de encerramento de produção.",
+     "Entender economias e deseconomias de escala e sua relação com o custo médio de produção.",
+     "Calcular, interpretar e comparar a receita total, a receita média e a receita marginal da firma.",
+     "Entender e diferenciar o lucro normal e o lucro econômico.",
+     "Entender a condição de maximização de lucro e determinar a quantidade que maximiza o lucro da firma."
+    ]
+   },
+   {
+    "h": "2.1.4 Estruturas de Mercado",
+    "items": [
+     "Descrever as características de um mercado em competição perfeita e explicar por que empresas em tais mercados são tomadoras de preço, analisando a relação entre demanda, preço e receita.",
+     "Explicar como uma empresa maximiza lucros em um mercado em competição perfeita, relacionando custo e receita marginal e o conceito de lucro econômico.",
+     "Distinguir entre a curva de demanda de mercado e a curva de demanda vista pela firma em competição perfeita.",
+     "Explicar a relação entre custo marginal, receita marginal e preço para uma empresa que se encontra em um mercado perfeitamente competitivo e produz a quantidade que maximiza seus lucros.",
+     "Descrever as principais características dos monopólios, explicar os motivos para seu surgimento e identificar suas estratégias de preços.",
+     "Explicar a relação entre preço, receita marginal e custo marginal no monopólio.",
+     "Distinguir monopólio de competição perfeita e explicar por que o monopólio pode estabelecer preços mais altos.",
+     "Explicar por que o monopólio é considerado ineficiente.",
+     " Analisar questões relacionadas à regulamentação de um monopólio natural e explicar o papel da economia de escala nessa categoria de monopólio.",
+     " Descrever as características de concorrência monopolística e identificar a existência de lucro econômico (ou perda econômica) no curto prazo.",
+     "Avaliar se a competição monopolística é uma estrutura de mercado eficiente.",
+     " Descrever as características do oligopólio e de seus modelos tradicionais.",
+     "Entender e interpretar os modelos de oligopólio de Cournot-Nash e de Bertrand.",
+     "Entender e interpretar o modelo de firma dominante.",
+     "Entender e interpretar o modelo de curva de demanda quebrada.",
+     "Calcular e interpretar medidas de concentração da indústria (Índice Herfindahl- Hirschman e Índice de Concentração), bem como descrever seu uso e suas limitações.",
+     "Descrever e indicar o Equilíbrio de Nash e entender o conceito de “dilema do prisioneiro” em Teoria dos Jogos.",
+     "Definir e descrever monopsônio e oligopsônio."
+    ]
+   },
+   {
+    "h": "2.2 Macroeconomia",
+    "items": []
+   },
+   {
+    "h": "2.2.1 Indicadores Econômicos",
+    "items": [
+     "Definir, interpretar e diferenciar Produto Interno Bruto (PIB) de Produto Nacional Bruto (PNB).",
+     "Analisar os fatores que determinam a demanda por moeda, bem como os efeitos sobre tal demanda causados por alterações no PIB real e inovações financeiras.",
+     "Avaliar o impacto de uma mudança em cada um dos principais indicadores econômicos (inflação, emprego e renda) sobre os investimentos em títulos de renda fixa, ações e taxas de câmbio.",
+     "Analisar o impacto de diferentes indicadores econômicos sobre os rumos da política econômica.",
+     "Explicar como a taxa de juros é determinada, sua influência no equilíbrio de mercado e a interação entre mudanças nas taxas de juros e a oferta monetária.",
+     "Caracterizar os indicadores de taxas de juros no mercado nacional (Taxa Selic, TLP, TBF, TR) e avaliar os impactos nos reajustes de contratos financeiros.",
+     "Caracterizar a Taxa DI, seu uso, formação e a dinâmica do mercado interfinanceiro.",
+     "Definir e explicar a construção de índices de preço (IGP-M, IGP-DI, IGP-10, INPC e IPCA), bem como identificar e explicar problemas associados à utilização de tais índices."
+    ]
+   },
+   {
+    "h": "2.2.2 Sistema Financeiro Nacional (SFN)",
+    "items": [
+     "Explicar as principais atribuições dos órgãos e agentes reguladores: Conselho Monetário Nacional (CMN), Banco Central do Brasil, Comissão de Valores Mobiliários (CVM).",
+     "Comparar e contrastar as diferentes instituições financeiras, suas funções econômicas, seus impactos na regulamentação, desregulamentação e inovações dos mercados financeiros (bancos múltiplos, bancos de investimento, distribuidoras e corretoras de títulos e valores mobiliários, de câmbio e de futuros).",
+     "Explicar como os bancos criam moeda e calcular a quantia de empréstimos que um banco pode gerar, dado um certo valor de depósitos e taxa de depósito compulsório.",
+     "Analisar os objetivos do Banco Central e os resultados do Balanço de Pagamentos. Comparar e contrastar as ferramentas de política econômica, bem como seus potenciais riscos se utilizadas incorretamente.",
+     "Explicar as funções, a estrutura e o funcionamento e Sistema de Pagamentos Brasileiro (SPB), incluindo as câmaras de compensação/liquidação atuantes no mercado brasileiro (Clearing B3 e SELIC)."
+    ]
+   },
+   {
+    "h": "2.2.3 Política Fiscal e Governo",
+    "items": [
+     "Entender e determinar a necessidade de financiamento do setor público, bem como explicar como esta afeta a política fiscal e a dívida pública.",
+     "Analisar as fontes de recursos para investimentos e a influência da política fiscal nos mercados de capitais.",
+     "Descrever e interpretar a Curva de Laffer.",
+     "Descrever o fenômeno de crowding-out e seu efeito sobre as taxas de juros e o investimento privado em uma economia.",
+     "Analisar os efeitos intergeracionais da política fiscal e entender como as decisões tomadas em uma geração podem afetar as gerações futuras.",
+     "Comparar e contrastar os efeitos dos multiplicadores de gastos do governo, de impostos e de orçamento equilibrado.",
+     "Explicar como uma política fiscal discricionária pode ajudar na estabilização do ciclo de negócios.",
+     "Explicar as ferramentas empregadas pelo governo para implementar a política fiscal, classificando-as como expansionistas ou contracionistas e identificar as consequências sobre a economia de sua utilização."
+    ]
+   },
+   {
+    "h": "2.2.4 Política Monetária, Moeda e Inflação",
+    "items": [
+     "Descrever as funções da moeda em uma economia.",
+     "Descrever e analisar o processo de criação e destruição de moeda, bem como identificar o papel dos bancos comerciais em tal processo.",
+     "Entender e analisar os agregados monetários: M1, M2, M3 e M4.",
+     "Entender o conceito de meta de inflação, seu uso e suas limitações para a política monetária de um país.",
+     "Entender o cálculo de um índice de inflação, bem como relacionar e distinguir inflação de alteração no nível de preços.",
+     "Relacionar os efeitos da inflação não antecipada sobre os mercados de trabalho e de capitais.",
+     "Distinguir inflação antecipada de inflação não antecipada, bem como interpretar os efeitos adversos da inflação não antecipada.",
+     "Analisar os impactos da inflação sobre o nível de desemprego e entender a Curva de Phillips de curto e longo prazos, interpretando mudanças na taxa de desemprego natural.",
+     "Explicar o impacto da inflação sobre a taxa nominal de juros e relacionar esse impacto à oferta de capital.",
+     "Entender as premissas da Teoria Quantitativa da Moeda e a interação entre as suas variáveis básicas de análise.",
+     "Identificar os instrumentos de política monetária disponíveis para atuação do Banco Central.",
+     " Explicar o papel do COPOM na determinação da taxa de juros.",
+     "Explicar e contrastar as políticas que podem ser implementadas para alcançar estabilidade de nível de preços.",
+     "Avaliar o uso da regra de Taylor e do formato da curva de juros na avaliação das condições econômicas e na atuação do Banco Central."
+    ]
+   },
+   {
+    "h": "2.2.5 Câmbio e Comércio Internacional",
+    "items": [
+     "Explicar quais fatores impactam a taxa de câmbio e a apreciação ou depreciação de uma moeda: reservas cambiais, Balanço de Pagamentos, Balança Comercial e fluxos internacionais de capital.",
+     "Explicar os regimes cambiais: câmbio fixo (currency board), câmbio flutuante, flutuações sujas (dirty floating) e bandas cambiais (crawling band)",
+     "Definir e diferenciar entre taxa de câmbio spot e forward, bem como calcular o prêmio ou desconto da taxa forward sobre a taxa spot.",
+     "Calcular a apreciação ou depreciação absoluta e percentual de uma moeda de contagem em relação a uma moeda base.",
+     "Definir, calcular e explicar a relevância da taxa de câmbio para a economia.",
+     "Definir e distinguir taxa de câmbio real da taxa de câmbio nominal, bem como explicar como essas taxas impactam importações e exportações.",
+     "Analisar a formação da Balança Comercial e sua relação com as demais contas que compõem o Balanço de Pagamentos.",
+     "Explicar como as reservas internacionais impactam as taxas cambiais e sua relação com o balanço de pagamentos.",
+     "Definir paridade do poder de compra entre moedas.",
+     "Entender a paridade de taxa de juros entre moedas, bem como calcular qualquer variável da relação dadas as demais variáveis: taxa de câmbio spot, taxa de câmbio forward e taxas de juros vigentes para cada moeda.",
+     "Definir e calcular cupom cambial, bem como distinguir cupom limpo de cupom sujo e analisar os fatores que impactam seu valor.",
+     "Explicar o papel do swap cambial como ferramenta de política cambial e seus efeitos na taxa de câmbio spot."
+    ]
+   }
+  ],
+  "3": [
+   {
+    "h": "3.1 Principais demonstrações contábeis",
+    "items": [
+     "Caracterizar os seguintes relatórios financeiros e explicar sua função para a avaliação de posição financeira de uma empresa:",
+     "Balanço Patrimonial",
+     "Demonstração do resultado do exercício (DRE) iii. Demonstração dos Fluxos de Caixa (DCF)",
+     "Identificar quais tipos de informações constam nas notas explicativas e avaliar a importância da interpretação dessas notas e de outras divulgações de fatos relevantes.",
+     "Definir os componentes do balanço patrimonial, avaliar ativos e passivos e identificar os itens monetários e não-monetários.",
+     "Definir a equação básica da contabilidade e calcular e determinar os lançamentos contábeis e seus efeitos sobre as demonstrações contábeis.",
+     "Calcular um componente de um relatório financeiro a partir dos demais, incluindo, mas não se limitando, ao cálculo do lucro líquido a partir de componentes do DRE e do patrimônio líquido a partir de componentes do Balanço Patrimonial.",
+     "Calcular o fluxo de caixa das atividades operacionais por meio dos métodos direto e indireto, das atividades de investimento e de financiamento de uma empresa.",
+     "Distinguir, interpretar e avaliar:",
+     "Fluxos de caixa operacional, de atividades de investimento e de financiamento.",
+     "Medidas alternativas de fluxo de caixa, incluindo lucro antes de juros, impostos, depreciação e amortização (LAJIDA ou EBITDA) e caixa líquido das atividades operacionais. iii. Fatores que influenciam o fluxo de caixa operacional.",
+     "Identificar e analisar possíveis classificações inadequadas de fluxo de caixa:",
+     "de investimento como fluxos de caixa operacionais.",
+     "financeiro de como fluxos de caixa operacionais.",
+     "Identificar e analisar necessidades de ajustes nos fluxos de caixa e nos componentes do DRE, incluindo o lucro líquido, em virtude de efeitos de itens não recorrentes.",
+     "Avaliar os ajustes necessários para retirar os efeitos de itens não-operacionais e não- recorrentes dos fluxos de caixa operacionais reportados e nos componentes do DRE, incluindo o lucro líquido.",
+     "Reconciliar (calcular) o resultado líquido apurado no DRE com o caixa gerado ou consumido nas atividades operacionais."
+    ]
+   },
+   {
+    "h": "3.2 Análise Financeira das Demonstrações Contábeis",
+    "items": [
+     "Identificar e interpretar indicadores de qualidade de lucros.",
+     "Definir, calcular e interpretar o capital de giro de uma empresa.",
+     "Definir, calcular e interpretar as medidas de performance operacional LAJIDA (ou EBITDA) e NOPAT.",
+     "Calcular e interpretar os principais índices de liquidez, explicando suas limitações.",
+     "Liquidez Geral",
+     "Liquidez Corrente iii. Liquidez Seca",
+     "Calcular e interpretar os principais índices de Solvência e Estrutura de Capital, explicando suas limitações:",
+     "Cobertura de Juros",
+     "Saldo de Tesouraria sobre Vendas iii. Passivo Total / Patrimônio Líquido (Participação de Capitais de Terceiros)",
+     "Grau de Endividamento: (Passivo Circulante + Exigível a Longo Prazo) / Ativo Total",
+     "Calcular e interpretar os principais índices de Rentabilidade, explicando suas limitações:",
+     "Retorno sobre as Vendas (RSV)",
+     "Retorno sobre o Ativo (RSA) iii. Retorno sobre o Patrimônio Líquido (RSPL)",
+     "Margem Bruta",
+     "Margem Operacional",
+     "Margem Líquida"
+    ]
+   },
+   {
+    "h": "3.3 Identificação de manipulação de informações financeiras e detecção de possíveis fraudes",
+    "items": [
+     "Avaliar a partir das práticas contábeis de uma empresa, os sinais de manipulações ou fraudes prováveis.",
+     "Avaliar se uma empresa manipula suas receitas por meio de:",
+     "Reconhecimento antecipado de receitas;",
+     "Reconhecimento de receitas artificiais; iii. Uso de receitas não recorrentes;",
+     "Reconhecimento atrasado de despesas;",
+     "Avaliar se uma empresa manipula sua Demonstração dos Fluxos de Caixa (DCF) por meio de:",
+     "Superdimensionamento do fluxo de caixa das operações classificando com operacionais fluxos não operacionais;",
+     "Superdimensionamento do fluxo de caixa das operações por meio de fluxos não recorrentes ou sustentáveis.",
+     "Avaliar se uma empresa manipula indicadores chave por meio d:",
+     "Ênfase exagerada a indicadores positivos construídos pelos critérios contábeis escolhidos;",
+     "Realização de operações ou adoção critérios contábeis com o objetivo específico de melhorar indicadores."
+    ]
+   }
+  ],
+  "4": [
+   {
+    "h": "4.1 Orçamento de Capital",
+    "items": [
+     "Calcular o período de breakeven de um investimento por meio dos métodos de Payback Simples e de Payback Descontado.",
+     "Calcular o Valor Presente Líquido (VPL) de um fluxo de caixa e interpretar um gráfico do VPL em função da taxa de desconto.",
+     "Contrastar os métodos de avaliação de projeto utilizando a Taxa Interna de Retorno (TIR) e o VPL e explicar os problemas potenciais do uso da TIR em projetos mutuamente exclusivos.",
+     "Explicar os efeitos da inflação sobre a análise de orçamento de capital.",
+     "Explicar como as análises de sensibilidade e de cenários, bem como a simulação de Monte Carlo, podem ser utilizadas para avaliar o risco de um mesmo projeto de capital."
+    ]
+   },
+   {
+    "h": "4.2 Estrutura de Capital",
+    "items": [
+     "Comparar e contrastar os riscos de credores e os riscos de acionistas.",
+     "Explicar a estrutura de capital alvo e determinar os fatores importantes para sua análise e determinação.",
+     "Caracterizar a teoria de irrelevância de estrutura de capital de Modigliani & Miller (MM), bem como sua proposição acerca da relação entre o custo do capital próprio e alavancagem financeira.",
+     "Explicar e interpretar os efeitos que estendem a teoria de capital de Modigliani e Miller (MM) para levar em conta o benefício fiscal oferecido pela emissão de dívida e a maior alavancagem financeira (static trade-off theory).",
+     "Determinar, interpretar e calcular o custo médio ponderado de capital (CMPC) de uma companhia.",
+     "Entender o papel dos impostos sobre o custo de capital.",
+     "Explicar os métodos alternativos para calcular os pesos utilizados no CMPC, incluindo o uso da estrutura de capital alvo da companhia.",
+     "Calcular e analisar o custo de capital na emissão de debêntures prefixadas usando o método YTM (yield to maturity) e de ratings.",
+     "Calcular e analisar o custo de capital próprio usando o modelo CAPM – Capital Asset Pricing Model e o modelo de desconto de dividendos (DDM – Discounted Dividend Model).",
+     "Explicar a importância de se incluir o prêmio de risco país na estimativa do custo do capital próprio (cost of equity) de uma empresa situada em um mercado em desenvolvimento."
+    ]
+   },
+   {
+    "h": "4.3 Proventos, Emissão e Recompra de Ações",
+    "items": [
+     "Identificar, analisar e distinguir os diferentes proventos (dividendos, bonificação em dinheiro e em ações, bônus de subscrição, juros sobre capital próprio), o desdobramento e o grupamento de ações, destacando os impactos para um acionista de cada um desses eventos.",
+     "Comparar o impacto da recompra de ações e da distribuição de dividendos sobre a riqueza do acionista.",
+     "Explicar e calcular o efeito de uma recompra de ação sobre o lucro por ação (LPA) quando esta é realizada com recursos de terceiros, considerando que o custo líquido de dívida da empresa é maior ou menor do que sua taxa de retorno (earnings yield).",
+     "Explicar e calcular o efeito contábil de uma recompra de ações quando o valor do mercado está acima ou abaixo de seu valor contábil.",
+     "Comparar e contrastar os métodos de recompra de ações.",
+     "Analisar os motivos para recompra de ações, explicando as expectativas que tais reaquisições podem gerar.",
+     "Entender o cronograma de pagamentos e indicar quando o preço da ação refletirá o pagamento do dividendo; calcular o retorno total de uma ação tendo em conta a ocorrência de grupamentos, desdobramentos e o pagamento de dividendos.",
+     "Explicar os fatores que afetam a política de pagamento de dividendos.",
+     "Analisar as motivações para a utilização do método de dividendo residual e explicar o funcionamento de seu mecanismo, dadas informações sobre lucro, estrutura de capital e projetos de capital de uma companhia.",
+     "Contrastar as seguintes abordagens à política de dividendos: dividendo residual, dividendo residual a longo prazo, estabilidade de dividendo, e índice payout alvo.",
+     "Calcular o dividendo esperado de uma companhia utilizando as variáveis na abordagem de payout alvo.",
+     "Estimar o valor dos dividendos esperados considerando o método do dividendo residual.",
+     "Definir e explicar as motivações, sob o ponto de vista do emissor, para o pagamento de dividendos ou juros sobre capital próprio.",
+     "Analisar as políticas de dividendos e a sua evolução no tempo.",
+     "Contrastar as teorias dividend irrelevance, “bird-in-the-hand”, e tax preference e explicar as implicações de cada teoria acerca do efeito de dividendos no valor para o acionista.",
+     "Entender e explicar a teoria de sinalização de dividendos.",
+     "Explicar como o pagamento regular de dividendos pode levar a um P/L maior."
+    ]
+   },
+   {
+    "h": "4.4 Reestruturação de empresas",
+    "items": [
+     "Definir, comparar e contrastar desinvestimento, spin-off e cisão.",
+     "Definir joint ventures e citar as motivações para a realização de tal operação.",
+     "Definir e comparar fusão e incorporação.",
+     "Analisar as razões que levam a desinvestimentos voluntários. Explicar os passos dos processos de desinvestimentos e, bem como os passos da avaliação financeira de desinvestimentos.",
+     "Definir e explicar a motivação do uso de transações de leveraged buyout (LBO) e management buyout (MBO).",
+     "Explicar os efeitos que cada reestruturação societária listada acima pode causar sobre os preços das ações das empresas envolvidas em função de seu estágio no ciclo de negócios.",
+     "Calcular o valor pós-fusão de uma companhia, bem como os ganhos para os acionistas da companhia adquirente e adquirida, considerando aquisições pagas com dinheiro e com a emissão de ações.",
+     "Avaliar os fatores que levam uma fusão a criar ou destruir valor."
+    ]
+   },
+   {
+    "h": "4.5 Governança Corporativa",
+    "items": [
+     "Definir governança corporativa e explicar sua relevância.",
+     "Explicar quais os objetivos e atributos de um sistema de boa governança corporativa.",
+     "Definir grau de independência do conselho de administração; explicar a importância de membros independentes no conselho de administração para a governança corporativa.",
+     "Avaliar, da perspectiva de um acionista, a política da companhia relacionada às regras de votação, às propostas patrocinadas por acionistas, às classes de ações ordinárias e aos mecanismos de defesa contra aquisição.",
+     "Explicar os potenciais conflitos de interesse entre administradores, conselheiros e acionistas."
+    ]
+   }
+  ],
+  "5": [
+   {
+    "h": "5.1 Organização e funcionamento do mercado de capitais",
+    "items": [
+     "Explicar o processo de abertura de capital de uma empresa via uma oferta pública, seus mecanismos de divulgação, coleta de intenções de investimento e recebimento de reservas.",
+     "Explicar e distinguir ofertas com registro automático ou com dispensa de registros, suas limitações e aplicabilidade.",
+     "Explicar o mecanismo de distribuição de ofertas públicas (Resolução nº. 160/22).",
+     "Explicar e diferenciar os mecanismos de colocação de títulos de valores no mercado: bookbuilding, leilão holandês, garantia firme, melhores esforços, competitive bids e private placement,",
+     "Explicar e interpretar as regras de distribuição de lote suplementar (green shoe) e quantidade adicional (hot issue) em ofertas públicas.",
+     "Explicar o processo de divulgação de ofertas públicas: consultas sobre a viabilidade das ofertas (pilot fishing, pre-deal research, pre-marketing, leitura de mercado), definição da faixa de preços e apresentação para investidores (roadshow).",
+     "Distinguir entre mercado primário e secundário, explicando como o mercado secundário fomenta o primário.",
+     "Comparar e contrastar bolsas de valores e mercados de balcão.",
+     "Explicar as principais características do mercado de bolsas de valores, tipos de ordens e formadores de mercado (market makers).",
+     "Explicar o funcionamento dos mecanismos de registro e liquidação nos mercados de renda fixa e renda variável (SELIC e Clearing B3) e sua integração ao Sistema de Pagamentos Brasileiro (SPB).",
+     "Avaliar os custos e taxas relacionadas à execução de uma ordem.",
+     "Explicar e analisar o processo de venda a descoberto e aluguel de ações, bem como justificar as possíveis motivações para o investidor adotar esta estratégia.",
+     "Explicar o processo de compra ações usando margem; calcular a taxa de retorno de uma transação que utiliza margem e definir a margem de manutenção.",
+     "Explicar como ocorrem as negociações nos mercados à vista e a termo com ações.",
+     "Explicar o funcionamento do mercado de aluguel e vendas a descoberto de ações na B3 e as garantias existentes para a liquidação das operações.",
+     "Calcular e interpretar o spread efetivo de uma ordem de mercado, contrastando-o ao bid-ask spread anunciado para medir o custo da transação.",
+     "Explicar os critérios de adesão/listagem de empresas no Nível 1, Nível 2 e Novo Mercado da B3 e seu reflexo sobre os direitos dos acionistas."
+    ]
+   },
+   {
+    "h": "5.2 Índices",
+    "items": [
+     "Analisar os problemas e impactos da adoção de diversas metodologias de cálculo dos índices de ações.",
+     "Entender e explicar as metodologias de ponderação de índices por preço (price-weighted), capitalização de mercado (market-weighted), liquidez (liquidity-weighted) e uniforme (equal- weighted).",
+     "Explicar os critérios de ponderação e inclusão de ações do Ibovespa e IBrX.",
+     "Comparar e contrastar características estruturais dos principais índices acionários domésticos e globais.",
+     "Explicar as características básicas dos seguintes índices, incluindo seus critérios de ponderação, universo de ações consideradas e critério de seleção:",
+     "Índices de bolsa de valores no Brasil: Índice Bovespa (Ibovespa), Índice Brasil (IBrX), Índice de Ações com Governança Corporativa Diferenciada (IGC), Índice de Ações com Tag Along Diferenciado (ITAG B3), Índice de Governança Corporativa Trade (IGCT B3), Índice de Governança Corporativa Novo Mercado (IGC -NM B3), Índice de Sustentabilidade Empresarial (ISE), Índice de Energia Elétrica (IEE), Índice Mid-Large Cap (MLCX), Índice Small Cap (SMLL), Índice de Fundos de Investimento Imobiliário (IFIX) , Índice de Dividendos (IDIV) e ICO2 B3: Índice Carbono Eficiente B3.",
+     "Índices de bolsa de valores no exterior: S&P 500, S&P ESG Indices, Dow Jones, DJSI - Dow Jones Sustainability Indices, Nikkei 225, FTSE, FTSE4Good, Hang Seng, NASDAQ-100, MSCI World, MSCI Emerging Markets, Russell 2000. iii. Índices de renda fixa no Brasil: Família de Índices IMA – Índice de Mercado ANBIMA (IMA-Geral, IRF-M, IMA-C, IMA-B, IMA-S).",
+     "Índices de renda fixa no exterior: Bloomberg Barclays Aggregate Bond Index, Bloomberg Barclays Emerging Markets Index, FTSE World Broad Investment-Grade Bond Index (WorldBIG), J.P. Morgan Emerging Markets Bond Index."
+    ]
+   },
+   {
+    "h": "5.3 Renda Variável",
+    "items": [
+     "Explicar e diferenciar ações ordinárias de preferenciais, comparando as vantagens e desvantagens de cada tipo para o investidor.",
+     "Explicar o conceito de Units – Certificado de Depósito de Ações e sua utilização.",
+     "Explicar o conceito de American Depositary Receipt (ADR), diferenciando os tipos de ADRs de acordo com a forma de negociação e informações fornecidas pela companhia de capital aberto.",
+     "Explicar porque as firmas decidem negociar suas ações fora do país e o que levaria os gestores a negociarem ações de uma mesma companhia listadas no mercado local ou internacional.",
+     "Explicar um Brazilian Depositary Receipt (BDR) e contrastá-lo com a ação no mercado local.",
+     "Distinguir entre BDRs patrocinados (níveis I, II e III) e não patrocinados.",
+     "Definir e diferenciar os conceitos de valores nominal, patrimonial, de liquidação e de mercado de uma empresa.",
+     "Explicar os componentes da taxa de retorno requerida por um investidor (tais como taxa livre de risco real, prêmio de inflação esperada e prêmio de risco), bem como analisar os fatores de risco a serem considerados a fim de se estimar o prêmio de risco país na avaliação de papéis estrangeiros.",
+     "Calcular o ROE (Return on Equity) de uma empresa utilizando o Modelo Dupont.",
+     "Estimar a taxa de crescimento de dividendos implícita, dados os componentes do ROE (Return on Equity) e incorporando a taxa de retenção de lucros e o atual preço da ação."
+    ]
+   },
+   {
+    "h": "5.4 Renda Fixa",
+    "items": [
+     "Entender a relação entre o prazo de vencimento, a taxa de retorno e o preço de um título de renda fixa.",
+     "Entender e explicar as características básicas de um título de renda fixa: prazo, valor de face, taxa de cupom e rendimento ao vencimento (yield to maturity).",
+     "Explicar as premissas de utilização do yield to maturity, bem como suas limitações, e explicar a importância do reinvestimento da renda recebida para gerar o yield to maturity esperado no momento da aquisição do título.",
+     "Explicar a mecânica de cálculo de juros e de atualização de principal de títulos com diferentes indexadores: câmbio, Taxa Selic e índices de inflação.",
+     "Entender e explicar as várias formas da taxa de cupom: zero cupom, prefixada (fixed rate), pós-fixada (floating rate), step-up e deferred.",
+     "Entender a estrutura dos títulos pós-fixados, incluindo a fórmula de cupom.",
+     "Entender, explicar e calcular os juros acumulados, o preço sujo e o preço limpo de um título de renda fixa.",
+     "Explicar a provisão de resgate antecipado em títulos e diferenciar títulos amortizados de não- amortizados.",
+     "Calcular os valores de prêmio de risco, dados os yields de dois títulos.",
+     "Explicar um spread de crédito.",
+     "Identificar as relações entre a taxa de cupom de um título de renda fixa, o rendimento requerido pelo mercado e o preço do título relativo ao seu valor de face (ágio, deságio, ou igual ao par).",
+     "Calcular o preço de um título de renda fixa, dados o prazo, a taxa de cupom e o rendimento até o vencimento.",
+     "Explicar o processo de marcação pela curva de um título, contrastar a marcação pela curva com a marcação a mercado, destacando as vantagens e desvantagens de cada método, e determinar em qual situação justifica-se a marcação pela curva.",
+     "Explicar os passos do processo de precificação de títulos de renda fixa (estimar fluxos futuros, determinar taxa de desconto, calcular o valor presente dos fluxos de caixa).",
+     "Explicar como a taxa de juros exigida para o investimento em um título se relaciona com a taxa ofertada por títulos públicos.",
+     "Explicar como os preços dos títulos variam com o aumento ou queda na taxa de desconto e calcular a mudança de valor atribuída a uma variação na taxa de desconto.",
+     "Explicar como o valor de um título varia com a aproximação do seu vencimento (efeito pull- to-par).",
+     "Calcular a taxa a termo embutida entre duas datas futuras com base no rendimento de dois títulos de renda fixa",
+     "Descrever as estruturas dos mercados primário e secundário de renda fixa no Brasil.",
+     "Explicar as principais características dos títulos do governo brasileiro: Letras do Tesouro Nacional (LTN), Letras Financeiras do Tesouro (LFT) e Notas do Tesouro Nacional (NTN).",
+     "Explicar as principais características dos títulos do BNDES: Letras de Crédito do Desenvolvimento (LCD)",
+     "Calcular o preço de uma LTN, LFT e NTN, dado o rendimento e o prazo até o vencimento, e calcular o rendimento desse papel, dado o preço e o prazo até o vencimento.",
+     "Explicar as características dos diversos papéis de renda fixa no que diz respeito a emissores, riscos, aspectos legais e de negociação, formas de contratos, vantagens e desvantagens, garantias e tipos: certificados de depósito bancário (CDB), letras financeiras (LF), debêntures, notas promissórias, cédulas de crédito bancário (CCB), cotas de fundos de investimento em direitos creditórios (FIDC), letras imobiliárias garantidas (LIG), certificados de recebíveis imobiliários (CRI), letras de crédito imobiliário (LCI), depósitos a prazo com garantia especial (DPGE), cédula de produto rural (CPR), certificados de direitos creditórios do agronegócio (CDCA), certificados de recebíveis do agronegócio (CRA), letras de crédito do agronegócio (LCA), operações compromissadas, títulos temáticos ASG (Ambiental, Social e Governança).",
+     "Explicar e interpretar as medidas de liquidez dos títulos de renda fixa.",
+     "Explicar o processo tradicional de análise de crédito, seus métodos e seus objetivos, e explicar os fatores relevantes à análise do crédito de uma empresa.",
+     "Definir garantias e entender o processo de formalização de garantias na concessão de crédito a uma empresa. aa.Identificar e explicar os diferentes tipos de garantia e espécie de debêntures emitidas no Brasil: garantia real, garantia flutuante, espécie quirografária e espécie subordinada.",
+     "Descrever os cinco “Cs” do crédito: caráter, capacidade, capital, colateral (garantias) e condições.",
+     "Entender e explicar elementos qualitativos relevantes para a análise de crédito de uma empresa. dd. Calcular índices de liquidez e de capacidade de pagamento para avaliar a capacidade de uma companhia de repagar suas dívidas, bem como explicar as limitações desses índices.",
+     "Explicar os elementos típicos da estrutura de passivos de um emissor de títulos de renda fixa de alto risco, as relações entre esses elementos e o impacto desses elementos na posição de risco do emissor.",
+     "Entender e explicar a classificação de risco (rating) emitida pelas três principais agências internacionais: Moody’s Investor Services, Standard & Poor’s e Fitch. gg. Explicar o conceito de consistência vertical e horizontal na concessão de ratings pelas agências.",
+     "Descrever e explicar os riscos e potenciais desvantagens associadas à utilização de ratings na análise de crédito."
+    ]
+   },
+   {
+    "h": "5.5 Mercados de Investimentos Alternativos",
+    "items": [
+     "Conhecer e definir as principais estruturas e veículos de investimentos alternativos (imóveis, private equity, commodities, ETFs – Exchange-Traded Funds)",
+     "Conhecer as características gerais de investimentos alternativos e contrastá-las com as características de investimentos tradicionais.",
+     "Conhecer e explicar as principais fontes e fatores que podem explicar o retorno e o risco das estruturas e veículos",
+     "Conhecer e explicar quais são e como funcionam os principais mitigadores de risco",
+     "Conhecer e explicar os principais indicadores de desempenho",
+     "Conhecer e explicar os fatores relevantes, do ponto de vista do investidor, para a due diligence sobre os diversos investimentos alternativos."
+    ]
+   },
+   {
+    "h": "5.6 Derivativos",
+    "items": [
+     "Definir um contrato derivativo e diferenciar contratos negociados em bolsa dos negociados em mercado de balcão.",
+     "Analisar o propósito do mercado de derivativos, bem como os riscos que podem ser assumidos em sua utilização.",
+     "Descrever o papel da B3 e os principais aspectos relacionados ao funcionamento do mercado de derivativos no Brasil.",
+     "Entender a mecânica dos contratos de derivativos agropecuários e financeiros negociados em bolsa, bem como de seus minicontratos.",
+     "Explicar o conceito de arbitragem e seu papel na determinação de preços e manutenção de mercados eficientes.",
+     "Entender as regras do sistema de garantias (margens, ajustes) e o regulamento das operações da B3.",
+     "Descrever o funcionamento do mercado de derivativos de balcão, bem como distinguir as características dos instrumentos negociados em balcão daqueles negociados em bolsa.",
+     "Definir um contrato a termo e identificar seu ativo-objeto.",
+     "Analisar as diferenças entre posições compradas e vendidas em um contrato a termo, destacando os riscos de liquidação e default.",
+     "Explicar os procedimentos para liquidação de um contrato a termo no seu vencimento.",
+     "Analisar como uma das partes do contrato a termo pode encerrar sua posição antes do vencimento e determinar como o risco de crédito é impactado de acordo com a forma de encerramento da posição.",
+     "Explicar as características de um contrato a termo de ações e de um contrato a termo de títulos sem e com cupons.",
+     "Calcular o preço a termo de uma ação.",
+     "Explicar as características de um contrato de forward rate agreement (FRA).",
+     "Calcular e interpretar o pagamento no vencimento de um FRA.",
+     "Explicar as características de um contrato a termo de moeda.",
+     "Explicar as características dos contratos futuros e distinguir contratos futuros de contratos a termo.",
+     "Calcular o valor de um contrato futuro.",
+     "Explicar limites de preços e o processo de marcação a mercado.",
+     "Calcular e interpretar o ajuste diário e o balanço de margem, dados os preços de negociação e os preços de ajuste.",
+     "Explicar como um contrato futuro pode ser encerrado antes ou em seu vencimento e explicar, em relação à forma, como os contratos futuros podem ser encerrados por meio de liquidação física ou liquidação financeira.",
+     "Explicar as características dos contratos futuros de moeda, índices, títulos de renda fixa e taxa de juros.",
+     "Definir opção americana, opção europeia, moneyness, payoff, valor intrínseco e valor do tempo, bem como diferenciar entre opções negociadas no mercado de balcão e negociadas em bolsas de valores.",
+     "Identificar e diferenciar opção de compra (call) e opção de venda (put) e explicar o papel do lançador e do titular.",
+     "Comparar e contrastar opções de taxa de juros e contrato de forward rate agreement (FRA).",
+     "Explicar como o ganho com opções é determinado e como o payoff de opções de taxa de juros se diferencia dos outros tipos de payoffs de opções.",
+     "Identificar os ganhos máximos e mínimos para opções americanas e europeias.",
+     "Explicar o funcionamento e objetivo de investimento em opções exóticas, especificamente as com barreira.",
+     "Explicar a relação entre os prêmios de opções que diferem apenas pelo preço de exercício.",
+     "Explicar como os preços das opções são afetados pelo seu prazo de vencimento.",
+     "Explicar paridade put-call para opções europeias e a relação entre os payoffs de uma covered call e de uma protective put.",
+     "Explicar como os fluxos de caixa do ativo-objeto afetam a paridade put-call e os preços mínimos das opções.",
+     "Identificar o efeito de uma mudança direcional na taxa de juros ou na volatilidade sobre o preço da opção.",
+     "Definir as Gregas (Delta, Gamma, Theta, Vega e Rho) e interpretar seus impactos sobre o preço da opção.",
+     "Calcular, para uma opção, o valor no vencimento, lucro, lucro máximo, perda máxima, preço de breakeven e análise do gráfico.",
+     "Explicar as características das seguintes estratégias:",
+     "comprar e/ou vender opções de venda (puts)",
+     "comprar e/ou vender opções de compra (calls) iii. opção de covered call e protective put",
+     "Explicar as estratégias de box, butterfly, straddle, strangle e call spread e as motivações para o investidor utilizá-las.",
+     "Definir e calcular o payoff de um cap e de um floor e explicar como um collar é criado.",
+     "Calcular o payoff de uma estratégia com derivativos, dados os prêmios das opções e o valor do ativo-objeto no vencimento das opções.",
+     "Entender como um cap e um floor são combinações de: 1) opções de taxas de juros, 2) opções de títulos de renda fixa.",
+     "Calcular e interpretar os preços de uma opção sintética, utilizando paridade put-call.",
+     "Explicar as premissas utilizadas no modelo de Black-Scholes e suas limitações.",
+     "Explicar como o modelo de árvore binomial é utilizado para precificação de opções, bem como justificar sua utilização.",
+     "Explicar delta de uma opção e demonstrar como ele é utilizado no hedging dinâmico.",
+     "Explicar as características de um contrato de swap e explicar como ele pode ser encerrado.",
+     "Definir e citar exemplos de swaps de moedas, taxa de juros, de renda variável e credit default swap, bem como calcular os pagamentos de cada tipo de swap, dada a fórmula, com base em dados específicos do contrato.",
+     "Calcular a alteração no valor de um swap de taxa de juros, para cada parte, quando a taxa de juros é alterada.",
+     "Explicar a equivalência dos seguintes swaps às combinações de outros instrumentos: um plain vanilla swap com uma combinação de opção de compra e venda de taxa de juros.",
+     "Calcular e interpretar a taxa fixa em um plain vanilla swap de taxa de juros e o valor de mercado do swap durante a sua vida, quando provido das fórmulas.",
+     "Analisar como o risco de crédito de swaps é reduzido tanto por netting como por marcação ao mercado.",
+     "Explicar como o risco de crédito surge em um swap, identificar a parte que assume tal risco e em que ponto na vida do swap este risco é maior.",
+     "Definir o swap spread."
+    ]
+   },
+   {
+    "h": "5.7 Melhor execução de ordens (best execution)",
+    "items": [
+     "Analisar a prática de trading de uma gestora de recursos sob o ponto de vista da melhor execução das ordens, em particular no que se refere:",
+     "Aos critérios e processos para a análise da execução das ordens.",
+     "Aos critérios e procedimentos de escolha de corretoras; iii. Tratamento de serviços associados à corretagem (soft dollars)",
+     "Segurança das ordens (utilização de plataformas eletrônicas e gravação de ordens)",
+     "Equidade no tratamento de fundos e contas: Alocação de ordens; Critérios para a transferência de ativos entre fundos; O uso do preço médio na alocação",
+     "Mecanismos de reconhecimento e resolução de erros de trading"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "h": "6.1 Teoria da utilidade esperada a. Definir risco e retorno no contexto da Teoria da Utilidade Esperada.",
+    "items": [
+     "Calcular e interpretar as medidas de risco, retorno e covariância utilizadas no contexto da Teoria da Utilidade Esperada. c. Explicar o conceito de dominância estocástica.",
+     "Recomendar uma carteira utilizando o conceito de dominância estocástica. e. Explicar os diferentes formatos das curvas de utilidade esperada, tendo em conta os conceitos de:",
+     "Saciabilidade",
+     "Aversão a risco iii. Neutralidade ao risco",
+     "Propensão ao risco",
+     "Definir aversão ao risco e analisar as evidências que sugerem que investidores são geralmente avessos ao risco.",
+     "Contrastar a Teoria da Utilidade Esperada com a Teoria da Perspectiva (Prospect Theory)."
+    ]
+   },
+   {
+    "h": "6.2 Fronteira eficiente",
+    "items": [
+     "Explicar o efeito da diversificação sobre uma carteira de ativos",
+     "Calcular e explicar o risco de uma carteira de ativos para dois e três ativos.",
+     "Calcular e explicar o risco de uma carteira de dois ativos nos cenários de correlação perfeita positiva ou negativa e ausência de correlação.",
+     "Identificar os componentes de uma matriz de correlações.",
+     "Diagramar e definir uma curva envoltória.",
+     "Determinar a carteira de variância mínima.",
+     "Diagramar e definir a fronteira eficiente.",
+     "Determinar a carteira ótima dadas a fronteira eficiente e as curvas de utilidade esperada.",
+     "Explicar como cada investidor pode ter uma carteira ótima diferente.",
+     "Discutir as limitações da análise da carteira ótima de Markowitz."
+    ]
+   },
+   {
+    "h": "6.3 A introdução do ativo livre de risco",
+    "items": [
+     "Formular o Teorema da Separação e explicar as alterações trazidas à fronteira eficiente pela introdução de um ativo sem risco.",
+     "Analisar o efeito da alavancagem sobre a fronteira eficiente.",
+     "Diagramar e formular a Linha de Mercado de Capitais.",
+     "Calcular o retorno esperado de uma carteira eficiente dado o nível de risco e o risco dado o retorno esperado.",
+     "Analisar o efeito do relaxamento das seguintes hipóteses:",
+     "Ausência de custos de transação e impostos",
+     "Possibilidade de vendas a descoberto iii. Financiamento à taxa sem risco",
+     "Homogeneidade das expectativas"
+    ]
+   },
+   {
+    "h": "6.4 Risco sistemático e não-sistemático",
+    "items": [
+     "Distinguir e comparar risco sistemático e risco não-sistemático.",
+     "Explicar o efeito da diversificação sobre os riscos sistemático e não-sistemático.",
+     "Explicar por que um investidor não deveria esperar retorno adicional ao assumir risco sistemático."
+    ]
+   },
+   {
+    "h": "6.5 Beta e a reta característica",
+    "items": [
+     "Explicar o conceito de beta sua relação com o risco sistemático",
+     "Diagramar e formular a reta característica de um ativo, calculando seus coeficientes linear e o seu intercepto."
+    ]
+   },
+   {
+    "h": "6.6 Modelos de Precificação de Ações",
+    "items": [
+     "Definir fatores em modelos de precificação de ativos.",
+     "Entender e explicar o Capital Asset Pricing Model (CAPM) e descrever suas premissas.",
+     "Calcular o retorno esperado de um ativo, dadas as variáveis do CAPM, e calcular qualquer parâmetro do CAPM, dadas as demais variáveis.",
+     "Determinar se a ação está subavaliada, superavaliada ou corretamente avaliada por meio do CAPM e, a partir dessa análise, tomar a decisão de investimento apropriada.",
+     "Entender e interpretar o diagrama da Security Market Line (SML).",
+     "Analisar os potenciais problemas do CAPM, bem como entender as críticas a esse modelo.",
+     "Analisar as vantagens e desvantagens de utilizar dividendos ou fluxo de caixa livre como medidas de fluxo de caixa no cálculo de um fluxo de caixa descontado e identificar a situação de investimento para qual cada medida é apropriada.",
+     "Determinar as circunstâncias nas quais um modelo de desconto de dividendo (DDM) é apropriado para avaliar uma ação.",
+     "Calcular o prêmio de risco utilizando o modelo de Gordon.",
+     "Explicar o processo para o desenvolvimento das variáveis usadas no DDM, incluindo a taxa de retorno exigida e a taxa de crescimento de dividendos esperada.",
+     "Calcular a taxa de retorno requerida a partir do CAPM e utilizar o resultado no DDM.",
+     "Definir e calcular a taxa de crescimento dos dividendos a partir da média geométrica dos últimos dividendos pagos e do payout ratio.",
+     "Calcular a taxa de crescimento dos dividendos a partir do payout ratio e do modelo Dupont para cálculo do ROE.",
+     "Calcular o valor de uma ação usando o modelo de Gordon e explicar as premissas utilizadas.",
+     "Explicar os pontos fortes e limitações do modelo de Gordon.  Justificar a seleção do modelo de Gordon para avaliar uma companhia de acordo com as suas características.",
+     "Calcular o valor de uma ação utilizando o DDM para um, dois e múltiplos períodos. Explicar as vantagens e limitações do modelo DDM e suas variações.",
+     "Explicar o conceito de valor terminal. Analisar os métodos alternativos e determinar o valor terminal em um modelo de dividendo descontado.",
+     "Definir e interpretar os conceitos de Fluxo de Caixa Livre para a Firma (Free Cash Flow to the Firm – FCFF) e Fluxo de Caixa Livre para o Capital Próprio (Free Cash Flow to Equity – FCFE).",
+     "Explicar os métodos de avaliação FCFF e FCFE, contrastando as taxas de desconto apropriadas para cada modelo, assim como explicar as vantagens e limitações do modelo FCFE.",
+     "Analisar os ajustes necessários ao rendimento líquido (net income), lucro antes dos juros e impostos (EBIT), lucro antes de juros, impostos, depreciação e amortização (EBITDA), ou operações de fluxo de caixa (CFO) para calcular o FCFF e FCFE.",
+     "Calcular FCFF e FCFE, dados os relatórios financeiros de uma companhia.",
+     "Analisar os métodos de forecasting FCFF e FCFE.",
+     "Analisar os usos como parâmetros de avaliação de fluxo de caixa do rendimento líquido e EBITDA.",
+     "Analisar os modelos FCFF e FCFE de etapa única (crescimento estável) e de duas etapas (inclusive premissas), explicando as características de uma companhia que justificaria o uso de cada modelo.",
+     "Calcular o valor de uma companhia utilizando modelos FCFF e FCFE de etapa única e duas etapas.",
+     "Explicar como a análise de sensibilidade pode ser usada em avaliações FCFF e FCFE.",
+     "Explicar as características de companhias para as quais o modelo de FCFF é preferido ao modelo de FCFE.",
+     "Avaliar uma ação pelo método de múltiplos utilizando cada um dos principais múltiplos. Explicar a importância dos fundamentos na utilização deste método de avaliação.",
+     "Calcular o índice P/E-to-growth (PEG), bem como explicar o seu uso na avaliação relativa.",
+     "Calcular o múltiplo EV/EBITDA e explicar seu uso.",
+     "Calcular e explicar o uso dos múltiplos na determinação do valor terminal em um modelo de fluxo de caixa descontado de vários estágios (DCF)."
+    ]
+   },
+   {
+    "h": "6.7 Modelos de Índice",
+    "items": [
+     "Explicar modelos de índice e calcular o retorno esperado de um ativo, dados os parâmetros do modelo."
+    ]
+   },
+   {
+    "h": "6.8 Modelos Multifatores",
+    "items": [
+     "Entender os fatores e os tipos de modelos multifatores utilizados na precificação de ativos.",
+     "Entender e calcular o retorno de um ativo com base em modelos de fatores macroeconômicos, bem como interpretar seus resultados.",
+     "Entender e explicar o modelo de Arbitrage Pricing Theory (APT) com um fator, bem como calcular o retorno de um ativo com base em parâmetros fornecidos para esse modelo.",
+     "Comparar e contrastar as premissas do modelo APT (Arbitrage Pricing Theory) com as premissas do modelo CAPM.",
+     "Analisar os potenciais problemas com o modelo APT, bem como entender as críticas a esse modelo.",
+     "Entender e explicar o modelo de Arbitrage Pricing Theory (APT) com dois ou mais fatores, bem como calcular o retorno de um ativo com base em parâmetros fornecidos para esse modelo.",
+     "Entender e explicar os modelos de fatores fundamentais, explicar suas premissas e calcular o retorno esperado de um ativo com base em parâmetros fornecidos para o modelo."
+    ]
+   }
+  ],
+  "7": [
+   {
+    "h": "Finanças Comportamentais",
+    "items": [
+     "Contrastar as premissas assumidas pela teoria tradicional de finanças (agentes racionais) e a teoria de finanças comportamentais.",
+     "Analisar como a teoria de finanças comportamentais pode impactar as hipóteses de mercados eficientes ou explicar anomalias nos mercados.",
+     "Descrever a Teoria da Perspectiva (Prospect Theory) e identificar suas premissas a respeito do processo de decisão de investimento.",
+     "Identificar e analisar as limitações cognitivas descritas pela teoria de finanças comportamentais e explicar seu impacto sobre as decisões de investimento.",
+     "Distinguir entre erros cognitivos e vieses emocionais.",
+     "Entender e explicar os principais erros cognitivos: conservadorismo, confirmação, representatividade, ilusão de controle, hindsight, ancoragem e framing.",
+     "Entender e explicar os principais vieses emocionais: Disponibilidade, aversão à perda, excesso de confiança, autocontrole, manutenção do status quo e aversão ao arrependimento.",
+     "Identificar vieses de comportamentos de investidores em situações reais e explicar como as expectativas dos investidores impactam os mercados.",
+     "Explicar o impacto de fatores comportamentais no processo de construção de uma carteira de investimentos.",
+     "Explicar o impacto de fatores comportamentais na relação entre um cliente e seu assessor de investimentos.",
+     "Descrever o papel de fatores comportamentais no surgimento de anomalias de mercado."
+    ]
+   }
+  ],
+  "8": [
+   {
+    "h": "8.1 O processo de gestão de carteiras individuais e institucionais",
+    "items": [
+     "Entender as características gerais do processo de gestão de carteiras individuais e institucionais, definindo e distinguindo as seguintes etapas e seus componentes:",
+     "Etapa de planejamento",
+     "Etapa de execução iii. Etapa de realimentação"
+    ]
+   },
+   {
+    "h": "8.2 A composição de um IPS individual",
+    "items": [
+     "Definir Investment Policy Statement (IPS) e distinguir entre IPS e a recomendação de uma carteira para um investidor.",
+     "Explicar as vantagens para o gestor e para o cliente na composição de um IPS.",
+     "Explicar como compor o perfil situacional de um investidor a partir:",
+     "Das fontes da riqueza de um investidor",
+     "Da medida da riqueza (subjetiva) iii. Do estágio de vida do investidor",
+     "Explicar o estágio de vida do investidor tendo em conta a seguintes fases:",
+     "Fundação da riqueza",
+     "Acumulação da riqueza iii. Manutenção da riqueza",
+     "Distribuição da riqueza",
+     "Explicar como a fonte da riqueza, a medida da riqueza e o estágio de vida do investidor afetam sua tolerância a riscos.",
+     "Explicar como compor o perfil psicológico do investidor a partir dos seguintes tipos padrão de perfil:",
+     "Investidores cuidadosos",
+     "Investidores metódicos iii. Investidores espontâneos",
+     "Investidores individualistas",
+     "Definir e distinguir cada um dos tipos padrão de investidor e discutir as limitações desse método.",
+     "Explicar como compor o perfil psicológico do investidor a partir da aplicação de questionários de avaliação do grau de aversão a riscos (Suitability ou de API – Análise do Perfil do Investidor) e discutir as vantagens e desvantagens desse método.",
+     "Explicar o papel dos perfis situacionais e psicológicos no entendimento de um investidor individual.",
+     "Explicar os objetivos a serem fixados em um IPS, incluindo os objetivos de retorno e objetivos de risco.",
+     "Comparar e distinguir o retorno requerido do retorno desejado e explicar como estes afetam o IPS.",
+     "Comparar e distinguir a capacidade de assumir riscos da disposição de assumir riscos e recomendar um curso de ação caso um indivíduo com baixa capacidade de assumir riscos possua uma alta disposição para assumi-los e vice-versa.",
+     "Indicar e analisar os componentes de um IPS incluindo os seguintes:",
+     "Objetivos de retorno",
+     "Objetivos de risco (ou tolerância a riscos) incluindo a capacidade de assumir riscos e a disposição de assumir riscos",
+     "Indicar e analisar as restrições a serem explicitadas em um IPS, incluindo as seguintes:",
+     "Horizonte",
+     "Liquidez iii. Regulamentação",
+     "Impostos",
+     "Circunstâncias específicas",
+     "Recomendar e justificar um IPS a um investidor individual.",
+     "Identificar possíveis falhas no processo de composição de um IPS hipotético."
+    ]
+   },
+   {
+    "h": "8.3 A composição de um IPS Institucional",
+    "items": [
+     "Comparar e distinguir os planos de previdência com Contribuição Definida (CD), Benefício Definido (BD) e Contribuição Variável (CV).",
+     "Avaliar a tolerância a riscos de um fundo de pensão, considerando as seguintes características:",
+     "Déficit ou superávit atuarial",
+     "Lucratividade da patrocinadora iii. Diversificação dos riscos do fundo vis-à-vis os riscos assumidos pela patrocinadora",
+     "Cláusulas do plano",
+     "Características dos beneficiários",
+     "Explicar como um processo de ALM pode ser aplicado na gestão de um plano BD",
+     "Discutir os objetivos de investimento e restrições de um plano BD e preparar um IPS.",
+     "Dada uma situação hipotética, recomendar uma meta atuarial, a fixação de um benchmark e a alocação estratégica para um plano BD.",
+     "Entender o efeito das restrições legais na gestão de planos BD.",
+     "Distinguir PGBL e VGBL.",
+     "Entender as características de PGBLs e VGBLs incluindo, portabilidade, segregação em relação ao patrimônio da seguradora, encargos e subtipos de PGBLs."
+    ]
+   }
+  ],
+  "9": [
+   {
+    "h": "9.1 Estratégias básicas de alocação de ativos",
+    "items": [
+     "Definir e distinguir gestão ativa, passiva e semiativa em relação às suas características e objetivos",
+     "Explicar a importância e as formas de utilização dos índices de mercado na construção e execução das estratégias",
+     "Explicar e distinguir as características das estratégias nos mercados de renda fixa e renda variável",
+     "Explicar e distinguir os principais riscos potenciais inerentes às estratégias",
+     "Definir e distinguir alocação tática de alocação estratégica (asset allocation) em relação aos objetivos e características.",
+     "Definir e distinguir alocação tática de alocação estratégica (asset allocation) em relação aos objetivos de risco e retorno.",
+     "Definir e distinguir alocação dinâmica de alocação estática.",
+     "Explicar como as expectativas dos mercados de capitais e as políticas de investimento ajudam a influenciar a decisão de alocação estratégica de ativos.",
+     "Explicar o uso de um processo da eliminação para se chegar a uma alocação estratégica de ativos apropriada para um investidor individual.",
+     "Recomendar uma alocação estratégica, por meio de processo de eliminação, dado um perfil do investidor (ou seu IPS) e as expectativas para os mercados de capitais.",
+     "Dadas as descrições da estratégia e as previsões de mercado, determinar e justificar os ajustes no peso das classes de ativos em sua alocação tática.",
+     "Analisar o papel da alocação estratégica de ativos em relação à exposição ao risco sistemático.",
+     "Avaliar a importância da alocação dos ativos para o desempenho da carteira.",
+     "Definir objetivos e características do processo de seleção de ativos"
+    ]
+   },
+   {
+    "h": "9.2 As Estratégias de investimentos ASG (Guia ASG Anbima)",
+    "items": [
+     "Conhecer, explicar e analisar o conceito de filtro negativo: exclusão de setores ou empresas, dependendo do tipo de produto/serviço ou por violar alguma norma.",
+     "Conhecer, explicar e analisar o conceito de Filtro positivo: Inclusão de setores ou empresas, que atendam determinado critério ou norma ASG.",
+     "Identificar os critérios de seleção de companhias de acordo com os requisitos ASG (Best-in-Class).",
+     "Conhecer e identificar como os critérios ASG são incorporados nos modelos de análise de investimentos.",
+     "Explicar o conceito de investimento de impacto.",
+     "Explicar o processo de engajamento corporativo com relação aos aspectos ASG.",
+     "Conhecer e identificar os aspectos ASG para gestores de fundos de investimento."
+    ]
+   }
+  ],
+  "10": [
+   {
+    "h": "Novas Tecnologias Em Finanças",
+    "items": [
+     "Explicar o termo “fintech” e descrever os diferentes segmentos em que atuam empresas nessa categoria.",
+     "Descrever o uso de fintechs na gestão de investimentos.",
+     "Explicar o conceito e usos do blockchain e compreender os princípios gerais da Distributed Ledger Technology (DLT), bem como sua utilização em finanças e investimentos.",
+     "Conhecer e explicar abordagens quantitativas aplicadas à gestão de investimentos: High- Frequency Trading, Robo-advisors, algo-trading e Machine Learning.",
+     "Explicar o conceito de Open Banking, bem como suas regras gerais de funcionamento, objetivos e benefícios pretendidos.",
+     "Explicar o conceito de Sandbox Regulatório, bem como suas regras gerais de funcionamento, objetivos e benefícios pretendidos.",
+     "Explicar o uso da tecnologia na regulação de pessoas e entidades que atuam nos mercados financeiro e de capitais, com ênfase na gestão de investimentos (RegTech – Regulatory Technology)."
+    ]
+   }
+  ],
+  "11": [
+   {
+    "h": "11.1 Princípios gerais de ética aplicada a profissionais de investimentos",
+    "items": [
+     "Conhecer e explicar os princípios fundamentais de ética aplicada a profissionais de investimentos.",
+     "Descrever o dever fiduciário e sua importância para a profissão de investimentos.",
+     "Entender a importância da utilização ética de informações e identificar situações em que tal princípio não é observado, como em atos de manipulação de mercado e de insider trading."
+    ]
+   },
+   {
+    "h": "11.2 Aspectos ASG (Ambiental, Social e Governança)",
+    "items": [
+     "Conhecer os aspectos ambientais e os impactos ambientais. Compreender como esses aspectos podem influenciar o desempenho das companhias.",
+     "Conhecer os aspectos socias e os impactos sociais. Compreender como esses aspectos podem influenciar o desempenho das companhias.",
+     "Conhecer os aspectos e impactos relacionados a governança corporativa. Compreender como esses aspectos podem influenciar o desempenho das companhias.",
+     "Conhecer o conceito de investimentos ASG | Responsáveis | Sustentáveis",
+     "Entender e explicar as principais referências para reportar informações em sustentabilidade (GRI; SASB; TCFD).",
+     "Entender o que é o PRI e quais são seus princípios.",
+     "Explicar o que são os 17 ODS e as suas metas e como os ODS podem ser incorporados na análise de empresas e fundos.",
+     "Explicar o que é o Código Brasileiro de Stewardship e quais são seus princípios e seu objetivo."
+    ]
+   },
+   {
+    "h": "11.3 Documento de Regras e Procedimentos de Certificação",
+    "items": [
+     "Entender e explicar o objetivo e abrangência do Documento de Regras e Procedimentos que tem por objetivo estabelecer regras para a capacitação técnica dos profissionais das Instituições Participantes (Capítulo I).",
+     "Entender e aplicar os princípios gerais de conduta que norteiam a atuação do profissional certificado, tanto em relação aos mercados em que atua como em relação à Instituição Participante com a qual mantenha vínculo (Capítulo II).",
+     "Entender e aplicar os procedimentos para obtenção da certificação (Capítulo IV).",
+     "Entender e aplicar as regras específicas relativas à Certificação Profissional ANBIMA para Gestores de Recursos de Terceiros, inclusive no que se refere à perda da Certificação e sua validade (Capítulo V) - Certificação ANBIMA para Gestão de Recursos de Terceiros (Seção II); Certificação ANBIMA para Gestão de Recursos de Terceiros (Subseção I); Certificação de Gestores ANBIMA (CGA) (Subseção II); Certificação de Gestores ANBIMA para Fundos Estruturados (CGE) (Subseção III).",
+     "Conhecer e aplicar os Vencimento e Atualização das Certificações (Capítulo VI)."
+    ]
+   },
+   {
+    "h": "11.4 Regulação e Melhores Práticas",
+    "items": [
+     "Entender e conhecer as definições do Código ANBIMA de Ofertas Públicas e Regras e Procedimentos de Ofertas Públicas, especificamente:",
+     "Objetivo e Abrangência (Cap. I do Código)",
+     "Princípios Gerais de Conduta (Cap. III do Código) iii. Publicidade (Cap. XII do Código)",
+     "Documentos da Oferta (Cap. XIII do Código)",
+     "Regras Gerais para as Ofertas Públicas (Cap. III das Regras e Procedimentos)",
+     "Publicidade da Oferta (Cap. VI das Regras e Procedimentos) vii. Regras Gerais de Registro das Ofertas na ANBIMA (Cap. VII das Regras e Procedimentos)",
+     "Entender e explicar as definições e disposições gerais do Código de Administração e Gestão de Recursos de Terceiros",
+     "Entender e explicar o objetivo e a abrangência do Código. (Cap. I).",
+     "Entender e explicar os Princípios Gerais do Conduta elencados no Código e distinguir entre ações consistentes e inconsistentes com tais princípios (Cap. III). iii. Definir a atividade de Administração Fiduciária, entender e explicar as obrigações e responsabilidades do Administrador Fiduciário (Cap. IV) .",
+     "Definir a atividade de Gestão de Recursos de Terceiros, entender e explicar as obrigações e responsabilidades do Gestor de recursos de terceiros, as regras relativas ao rateio de ordens para os veículos de investimento e a gestão de crédito privado (Cap. V, Seções I, II e III).",
+     "Definir a atividade de Gestão Patrimônio Financeiro, entender e explicar as suas obrigações e responsabilidades (Cap. VI).",
+     "Entender e explicar as regras de Gestão de Risco dos veículos de investimento, Gestão de Liquidez, Limites de composição e concentração da carteira (Capítulos VIII, IX, X). vii. Entender e explicar os princípios e regras de Apreçamento dos ativos e da provisão de perdas dos direitos creditórios (Cap. XI, Seções I e II). viii. Entender e explicar os casos em que as classes podem ficar expostas ao risco de capital (Cap. XII).",
+     "Entender e explicar as disposições gerais e regras dos Fundos de Investimento, as responsabilidades dos prestadores de serviço, as responsabilidades dos cotistas, os regimes de insolvência e as operações de empréstimo (Cap. XIII, Seções I, II, III, IV e V).",
+     "Entender e explicar o conceito de uma Carteira Administrada (Cap. XIV).",
+     "Conhecer e explicar a forma como os fundos são classificados pela ANBIMA (Cap. XVIII) xii. Conhecer e explicar as regras e disposições para a realização de publicidade (Cap. XXI). xiii. Conhecer e explicar as regras para o exercício de voto em Assembleia (Cap. XXII).",
+     "Entender e explicar as definições e disposições gerais do documento de Regras e Procedimentos de Administração e Gestão de Recursos de Terceiros",
+     "Entender e explicar as definições, o objetivo e a abrangência do documento (Cap. I).",
+     "Entender e explicar a obrigatoriedade de apreçamento dos ativos dos veículos de investimento; as responsabilidades; a estrutura organizacional; o conteúdo, regras e processos contidos no manual de apreçamento (Cap. II, Seções I, II e III) iii. Entender e explicar os critérios para o apreçamento de ativos; as regras gerais; as regras para os ativos financeiros de renda fixa; as regras para os ativos de renda variável; as regras para derivativos; as regras para os ativos no exterior; as regras para as cotas de classes (Cap. IV, Subseções I, II, III, IV, V e VI).",
+     "Entender e explicar as regras e procedimentos para rateio de ordens para os veículos de investimento (Cap III).",
+     "Conhecer e explicar as responsabilidades e procedimentos para a gestão de risco dos veículos de investimento; as regras e procedimentos para documentação dos processos de gestão de risco (Cap. IV – Subseções I e II)",
+     "Conhecer e explicar o objetivo e abrangência, bem como as regras e procedimentos para as instituições participantes exercerem a atividade de Gestão de Patrimônio Financeiro (Anexo complementar I, Cap. I). vii. Conhecer e explicar o documento de política de investimento e sua obrigatoriedade; a formalização do contrato de gestão de patrimônio; e as informações obrigatórias de serem prestadas aos investidores (Cap. II, III e VI). viii.  Conhecer e explicar o objetivo e abrangência, bem como as regras gerais e procedimentos para as instituições participantes exercerem a atividade de Gestão de Recursos de Terceiros de Carteiras Administradas (Anexo complementar II, Cap. I e II).",
+     "Entender e explicar a necessidade de formalização e o conteúdo mínimo do contrato de carteira administrada (Cap. III).",
+     "Conhecer e explicar as regras e procedimento dos ativos das carteiras administradas (Cap. V).",
+     "Conhecer e explicar as regras e procedimento para divulgação de material publicitário sobre as carteiras administradas, em específico na divulgação de rentabilidade (Cap. VIII – Seção I). xii. Conhecer e explicar o objetivo e abrangência, bem como as regras gerais e procedimentos que são válidos para todas as categorias de fundos de investimento (Anexo complementar III, Cap. I). xiii. Conhecer e explicar as obrigações gerais dos prestadores de serviços essenciais, em específico as obrigações do administrador fiduciário e do gestor de recursos (Cap. II, Seção I, II e III). xiv. Conhecer e explicar as regras de divulgação e cobrança da remuneração e suas vedações (Cap. II, Seção IV)",
+     "Conhecer e explicar as responsabilidades, regras e procedimentos no apreçamento de ativos financeiros integrantes das carteiras de investimento das diversas classes de ativos dos fundos de investimento (Cap. IV). xvi. Conhecer e explicar as regras gerais e objetivo e abrangência no exercício de voto em Assembleias; a responsabilidade do gestor de recursos; as situações em que o voto é obrigatório; os casos em que o voto pode ser facultativo; e a documentação da política de exercício de direito de voto (Cap. V, Seções I e II), Subseções I, II, III e IV). xvii. Conhecer e explicar a responsabilidade do gestor e do administrador fiduciário no cumprimento dos limites de investimento das classes e as obrigações de enquadramento (Cap. VI). xiii. Conhecer e explicar a responsabilidade dos prestadores de serviços essenciais na gestão do risco de liquidez; a estrutura requerida do gestor; a documentação da política de gestão de risco de liquidez; a metodologia do processo para o caso geral e em específico nos ativos de classes abertas (Cap. VII, Seções I - Subseções I e II, Seção II – Subseção I). xiv. Conhecer e explicar os documentos relacionados aos fundos de investimento e as responsabilidades do administrador fiduciário e do gestor (Cap. X).",
+     "Conhecer e explicar as regras que regem o registro dos fundos, classes e subclasses; e as responsabilidades do administrador fiduciário (Cap. XI). xxi. Conhecer e explicar o objetivo e abrangência, bem como as regras e procedimentos dos FIF (Anexo complementar IV, Cap. I). xxii. Conhecer e explicar os limites de investimento das classes e as obrigações do administrador fiduciário (Cap II). xxiii. Conhecer e explicar a reponsabilidade e procedimentos adotados pelo gestor na gestão de crédito das carteiras de FIF; os procedimentos para aquisição de ativos de crédito privado e o processo de monitoramento dos ativos de crédito (Cap. III, Seções I e II). xxiv. Conhecer e explicar as regras gerais, procedimentos, objetivo e abrangência para a classe de um FIF aplicar em ativos no exterior; as responsabilidades do administrador fiduciário; a estrutura organizacional; e as responsabilidades do gestor de recursos (Cap. IV – Seções I e II, Subseções I, II e III). xxv. Conhecer e explicar as regras gerais, procedimentos, objetivo e abrangência para a classificação de risco dos FIF; a responsabilidade do gestor; a metodologia adotada e sua documentação; e a classificação dos fundos conforme tabela de escala de risco das classes dos FIF segundo padrão da ANBIMA (Cap. V – Seções I, II – Subseções I, II e III). xxvi. Conhecer e explicar o objeto, a abrangência, as normas e critérios para a classificação das Classes dos FIF, em específico os FIF de renda fixa, ações, multimercados, cambial e previdenciárias (Cap. VI – Seções I, II – Subseções I, II, III, IV e V). xxvii. Conhecer e explicar as regras gerais para elaboração de material publicitário e material técnico; as responsabilidades; conteúdo básico de informações; critérios de comparação e simulação; e histórico de rentabilidade (Cap. VII - Seções I, II, III, V e VI).",
+     "Entender e conhecer as definições do Código ANBIMA de Regulação e Melhores Práticas – Serviços Qualificados ao Mercado de Capitais, especificamente:",
+     "Entender as definições (Capítulo I), o objetivo e abrangência (Capítulo II), bem como princípios gerais de conduta (Capítulo IV), do Código.",
+     "Caracterizar e distinguir os seguintes serviços: Administração de Fundos de Investimento, Gestão de Fundos de Investimento, Custódia Qualificada e Controladoria de Fundos de Investimento. iii. Entender as regras e procedimentos para a prestação de serviços qualificados nos mercados de capitais (Capítulo V).",
+     "Definir e compreender as atividades de custódia (Capítulo IX) e controladoria (Capítulo X)"
+    ]
+   }
+  ],
+  "12": [
+   {
+    "h": "12.1 Normas legais e infra legais",
+    "items": []
+   },
+   {
+    "h": "12.1.1 Lei nº 6.385 – Lei do Mercado de Capitais, de 07/12/1976, e alterações posteriores",
+    "items": [
+     "Entender as disposições gerais da Lei (Capítulo I) incluindo as atividades abrangidas, a definição de valores mobiliários e as competências da CVM e do Conselho Monetário Nacional.",
+     "Entender as regras relativas à distribuição de títulos e valores mobiliários incluindo a definição de atos de distribuição e as entidades autorizadas a atuar na distribuição.",
+     "Indicar a definição de gestão profissional mencionada na Lei.",
+     "Indicar os crimes contra o mercado de capitais definidos pela Lei.",
+     "Entender a conduta e o dolo específico de Manipulação de Mercado",
+     "Diferenciar os diferentes tipos de Insider Trading (Primário e Secundário) e o dever de sigilo de informações privilegiadas.",
+     "Compreender a necessidade de autorização ou registro para a realização de condutas específicas no mercado de valores mobiliários",
+     "Distinguir a conduta criminosa da conduta adequada aos preceitos a Lei. i.Compreender a necessidade de reporte de operações criminosas, sob risco de configuração de omissão imprópria.",
+     "Indicar as penalidades aplicáveis pela Comissão de Valores Mobiliários."
+    ]
+   },
+   {
+    "h": "12.1.2 Regras gerais aplicáveis aos Fundos de Investimento, de acordo com a Lei nº 10.406 – Código Civil, de 10/01/2002, Livro III, Título III, Capítulo X – Do Fundo de Investimento, incluído pela Lei nº 13.874 – Lei da Liberdade Econômica, de 20/09/2019, especificamente os seguintes tópicos:",
+    "items": [
+     "Entender a definição de condomínio de natureza especial dos fundos de investimento e os efeitos decorrentes",
+     "Indicar a quem compete regulamentar e disciplinar os fundos de investimento",
+     "Entender a aplicabilidade da Lei da Liberdade Econômica aos fundos de investimento constituídos por lei específica",
+     "Indicar, de acordo com a Lei da Liberdade Econômica, em que situação a responsabilidade de cada investidor dos fundos de investimento pode ser limitada ao valor de suas cotas",
+     "Indicar, de acordo com a Lei da Liberdade Econômica, em que situação a responsabilidade de cada prestador de serviços dos fundos de investimento pode ser limitada",
+     "Indicar fatores que devem ser levados em consideração na determinação da responsabilidade dos prestadores de serviços",
+     "Indicar, de acordo com a Lei da Liberdade Economica, em que situação podem ser estabelecidas nos fundos de investimento classes de cotas com direitos e obrigações distintos",
+     "Indicar, de acordo com a Lei da Liberdade Econômica, a possibilidade de constituição de patrimônio segregado entre diferentes classes dos fundos de investimento",
+     "Indicar, de acordo com a Lei da Liberdade Econômica, o limite de responsabilidade a que sujeitos os patrimônios segregados eventualmente constituídos sobre classes de cotas dos fundos de investimento",
+     "Indicar, de acordo com a Lei da Liberdade Econômica, que fatos podem ser abrangidos pela limitação de responsabilidade",
+     "Entender a responsabilidade a que sujeitos os fundos de investimento",
+     "Entender em que situações os prestadores de serviços podem responder por obrigações dos fundos de investimento",
+     "Entender, de acordo com a Lei da Liberdade Econômica, as regras aplicáveis caso os fundos de investimento não possuam patrimônio para responder por suas obrigações",
+     "Indicar as partes responsáveis por requerer a insolvência de um fundo de investimento"
+    ]
+   },
+   {
+    "h": "12.1.3 Instrução CVM nº 21 e alterações posteriores",
+    "items": [
+     "Entender a definição de administração de carteiras de valores mobiliários na ICVM 21.",
+     "Indicar e distinguir as categorias em o registro de administrador de carteiras de valores mobiliários pode ser realizado.",
+     "Indicar as atividades que, no âmbito do mercado de capitais, podem ser desempenhadas por administradores de carteiras.",
+     "Entender os requisitos para o registro de administrador de carteiras pessoa jurídica e pessoa física, incluindo certificações exigidas (para o caso de pessoas físicas) e diretores nomeados junto à CVM (para o caso de pessoas jurídicas).",
+     "Indicar as informações obrigatórias a serem mantidas pelos administradores de carteiras em suas páginas na rede mundial de computadores.",
+     "Entender as normas de conduta e vedações aplicáveis à administração de carteiras de valores mobiliários.",
+     "Entender as responsabilidades do administrador de carteiras no que se refere a controles internos, incluindo a necessidade de realização de exames e relatórios acerca do correto funcionamento de tais controles.",
+     "Entender as responsabilidades do administrador no que se refere à manutenção de políticas e procedimentos de gestão de riscos.",
+     "Listar os procedimentos a serem adotados com vistas a garantir a correta segregação das atividades desenvolvidas pelo administrador de carteiras.",
+     "Entender as responsabilidades do administrador de carteiras registrado na categoria de administrador fiduciário.",
+     "Explicar as circunstâncias em que um administrador de carteiras pode atuar como distribuidor e indicar as responsabilidades adicionais trazidas por tal atuação."
+    ]
+   },
+   {
+    "h": "12.1.4 Resolução CVM nº 175/22 – Parte Geral",
+    "items": [
+     "Indicar as características dos fundos de investimento, definições, estrutura, conceitos de condomínio e segregação patrimonial, constituição e registro de fundos de investimento (Capítulos I e II).",
+     "Explicar o conceito de cotas, tipos de classe, emissão, subscrição, integralização, resgate, amortização e negociação com uso de informação privilegiada c. Explicar as diretrizes aplicáveis a divulgação de informações, distinguindo meios que podem ser utilizados para o envio de comunicações aos cotistas e as condições para o envio de informações por meio eletrônico",
+     "Entender os conceitos e as diferenças entre assembleia geral de cotistas e assembleia especial",
+     "Entender as funções e deveres dos prestadores de serviço essenciais, sue remuneração f. Entender e explicar as vedações, obrigações e normas de conduta aplicáveis",
+     "Entender e explicar o conceito de carteira",
+     "Entender e explicar o conceito de classes restritas e previdenciárias i. Entender e explicar os encargos aplicáveis ao fundo j. Entender e explicar o conceito de patrimônio liquido negativo, abrangendo seus reflexos tanto no caso de fundos com responsabilidade ilimitada dos cotistas, quanto em fundos com responsabilidade limitada",
+     "Entender e explicar o conceito de insolvência da classe de cotas"
+    ]
+   },
+   {
+    "h": "12.1.5 Resolução CVM nº 160",
+    "items": [
+     "Entender as regras aplicáveis à:",
+     "Possibilidade de dispensa de registro para oferta ou de requisitos",
+     "Opção de distribuição de lote adicional e lote suplementar iii. Resultado da oferta e distribuição parcial",
+     "Instituições Intermediárias participantes do processo de oferta",
+     "Conteúdo obrigatório dos prospectos e lâminas",
+     "Possibilidade de realização de consulta sobre a viabilidade da oferta vii. Possibilidade de coleta de intenções de investimento viii. Recebimento de reservas",
+     "Conflito de Interesses",
+     "Material publicitário autorizado e informações obrigatórias",
+     "Divulgação e período de distribuição xii. Veracidade das informações"
+    ]
+   },
+   {
+    "h": "12.1.6 Resolução CMN Resolução CMN 4.994/22 e alterações posteriores",
+    "items": [
+     "Conhecer e explicar os controles internos, as metodologias de avaliação e de monitoramento dos riscos e do conflito de interesse, na aplicação dos recursos das EFPC.",
+     "Definir a política de investimento para aplicação de recursos das EFPC, conhecer seu processo de definição e processo de aprovação.",
+     "Descrever, conhecer e detalhar os ativos admitidos e explicar os investimentos permitidos e limites de alocação estabelecidos para cada um dos segmentos de aplicação enumerados pela norma (Renda Fixa, Renda Variável, Estruturado, Imobiliário, Operações com Participantes e Exterior).",
+     "Explicar e conhecer os limites de alocação e concentração por emissor aplicáveis a entidades fechadas de previdência privadas (EFPC).",
+     "Explicar e conhecer as regras e limites aplicáveis aos empréstimos de valores mobiliários e as posições de investimento em mercados derivativos em função do perfil de investimento da EFPC.",
+     "Explicar e conhecer as regras aplicáveis aos investimentos das EFPC em fundos de investimento e comparar e contrastar as circunstâncias em que um fundo pode ser tomado como ativo final com as circunstâncias em que há necessidade de consolidação das aplicações nos diversos fundos.",
+     "Definir o conceito e as implicações do desenquadramento passivo aplicáveis às EFPC e contrastar com o conceito e implicações aplicáveis nos casos de fundos regidos pela  Resolução CVM 175/22 (Capítulo X).",
+     "Indicar e explicar as vedações aplicáveis à gestão de EFPC e conhecer suas implicações na gestão de fundos de investimento que tenham EFPC como público-alvo (Capítulo XI)."
+    ]
+   },
+   {
+    "h": "12.1.7 Resolução CMN nº 5.272/25 e alterações posteriores",
+    "items": [
+     "Explicar a necessidade de definição de uma política anual de aplicação de recursos por parte de regimes próprios de previdência social (RPPSs) e as características de tal política (Seção I)",
+     "Explicar os segmentos de aplicação em que RPPSs podem investir seus recursos, suas características e limites (Seção II)",
+     "Indicar os tipos de fundos que podem compor tais segmentos e seus limites.",
+     "Explicar os limites gerais e as características da gestão de RPPSs (Seção III)."
+    ]
+   },
+   {
+    "h": "12.1.8 Legislação pertinente a planos de previdência privada",
+    "items": [
+     "Entender o conceito de classes previdenciárias, tal como estabelecido pelo Art. 116 da Resolução CVM nº 175/22 (Capítulo X); conhecer suas características, definições e formas de constituição; e aplicar sua utilização para a gestão de Fundos Previdenciários: fundos de investimento vinculados exclusivamente a planos de previdência ou a seguros de vida com cláusula de cobertura por sobrevivência, estruturados na modalidade de contribuição variável (Anexo XI).",
+     "Conhecer e definir as condições especiais e os critérios para realização dos investimentos, considerando as vedações dos Fundo de Investimento ou Fundo de Investimento em Cotas constituídos especificamente para a recepção de recursos provenientes de sociedades seguradoras, entidades abertas de previdência complementar – EAPC, sociedades de capitalização e resseguradores (FIE e FIFE), nos termos da Resolução CNSP 432/21.",
+     "Conhecer as regras para funcionamento, as definições (Cap. I e II) e os critérios para operação (Cap. III, VII e VIII) das coberturas por sobrevivência dos planos de seguro de pessoas do tipo VGBL e seus subtipos, nos termos da Resolução CNSP Nº 464 de 2024.",
+     "Conhecer as regras para funcionamento, as definições (Cap. I e II) e os critérios para operação (Cap. III, VII e VIII) das coberturas por sobrevivência dos planos de previdência complementar aberta do tipo PGBL e seus subtipos, nos termos da Resolução CNSP Nº 463 de 2024.",
+     "Conhecer e aplicar as normas e diretrizes que disciplinam a aplicação dos recursos das reservas técnicas, das provisões e dos fundos das sociedades seguradoras e das entidades abertas de previdência complementar (Capítulos II, III, IV, V e VI) e das vedações (Capítulo X) do Anexo da Resolução CMN 4.993/22."
+    ]
+   },
+   {
+    "h": "12.1.9 Resolução CVM nº 30 (Capítulo VIII) e alterações posteriores",
+    "items": [
+     "Definir e contrastar as categorias de investidores profissionais e qualificados.",
+     "Dadas as características de um investidor, indicar se ele é classificado como profissional ou qualificado."
+    ]
+   },
+   {
+    "h": "12.1.10 Resolução CVM nº 62",
+    "items": [
+     "Entender o conceito de tipologia aberta e a obrigação que cria de constante atualização por parte dos profissionais.",
+     "Conhecer as características de cada ilícito de mercado.",
+     "Compreender as condutas e os objetivos vedados pelas condutas tipificadas como ilícitos de mercado.",
+     "Identificar os exemplos notórios de ilícitos de mercado (Money Pass, Spoofing, Layering, Manipulação de Benchmark, Churning, Insider Trading e Front Running)."
+    ]
+   },
+   {
+    "h": "12.1.11 Regulação e Autorregulação ASG",
+    "items": [
+     "Conhecer e explicar os aspectos ASG e o gerenciamento dos riscos social, ambiental e climático, relacionados à Resolução CMN 4.943/2021 (Seção VIII – Art. 38); Resolução CMN 4.944/2021 (Seção III – Art. 27); Resolução CMN 4.945/2021 e alterações posteriores sobre a Política de Responsabilidade Social, Ambiental e Climática (PRSAC);",
+     "Conhecer e explicar os aspectos ASG da Resolução BCB nº 139 e alterações posteriores – Relatório de riscos e oportunidades sociais, ambientais e climáticas (Relatório GRSAC);",
+     "Conhecer e explicar os temas pertinentes a ASG do Formulário de Referência da Resolução CVM nº 87 – Anexo C (Itens 1.9 - Informações ASG; 2.10 – Comentário da Diretoria relacionadas a questões ASG; 4 – Fatores de risco; 7.2 – Governança do Conselho de Administração e 8.1 – Remuneração dos administradores relacionada a questões ASG)."
+    ]
+   },
+   {
+    "h": "12.2 Compliance a. Entender a obrigatoriedade da função compliance para empresas gestoras e administradoras de fundos de investimento nos termos do Código de Administração e Gestão de Recursos de Terceiros e das Regras e Procedimentos para Administração e Gestão de Recursos de Terceiros.",
+    "items": [
+     "Recomendar ações visando à conformidade com as normas de segregação e gerenciamento de conflitos de interesse. c. Entender as regras que regem a Prevenção à Lavagem de Dinheiro a ao Financiamento do Terrorismo (PLD/FT) e sua aplicação à atividade de gestão de recursos de terceiros, incluindo preceitos legais relativos:",
+     "À definição dos crimes de lavagem ou ocultação de bens, direitos e valores (Capítulo I da Lei 9.613)",
+     "Às pessoas sujeitas ao mecanismo de controle da Lei, incluindo os gestores de fundos de investimento (Capítulo V da Lei 9.613) iii. À necessidade de identificação de clientes e manutenção de registros (Capítulo VI da Lei 9.613)",
+     "À necessidade de Comunicação de Operações Financeiras (Capítulo VII da Lei 9.613)",
+     "Às responsabilidade administrativa e penalidades pela não existência de políticas e procedimentos de PLD (Capítulo VIII da Lei 9.613)",
+     "Ao âmbito e finalidade da Instrução CVM nº 50, bem como aos procedimentos específicos para avaliação interna de risco, identificação e monitoramento de funcionários e prestadores de serviços relevantes, identificação do cadastro de clientes, registro de transações, período de conservação dos cadastros e registros, monitoramento e comunicação das operações e ao cumprimento de sanções de indisponibilidade de ativos impostas por resoluções do Conselho de Segurança das Nações Unidas – CSNU nela dispostos. vii. Às definições de Pessoa Exposta Politicamente (PEP) do Anexo 5-I da Instrução CVM nº 50.",
+     "Recomendar ações visando à conformidade com as normas PLD/FT, considerando os riscos e características das atividades realizadas."
+    ]
+   },
+   {
+    "h": "12.3 Tributação de ações (mercado à vista)",
+    "items": [
+     "Entender a tributação de ações tendo em conta os seguintes aspectos:",
+     "Tipos de investidores",
+     "Impostos aplicáveis iii. Fato Gerador",
+     "Base de Cálculo",
+     "Alíquotas",
+     "Calcular os impostos sobre os produtos de renda variável no mercado brasileiro do ponto de vista de um investidor residente no Brasil e de um investidor estrangeiro (não residente)."
+    ]
+   },
+   {
+    "h": "12.4 Tributação de títulos públicos e privados de renda fixa",
+    "items": [
+     "Entender a tributação de títulos públicos e privados de renda fixa, tendo em conta os seguintes aspectos:",
+     "Tipos de investidores",
+     "Impostos aplicáveis iii. Fato Gerador",
+     "Base de Cálculo",
+     "Alíquotas",
+     "Calcular os impostos sobre os títulos públicos e privados de renda fixa no mercado brasileiro do ponto de vista de um investidor residente no Brasil e de um investidor estrangeiro (não residente)."
+    ]
+   }
+  ]
+ }
+}
